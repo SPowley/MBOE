@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?><magicdraw><class id="_19_0_4_c480314_1685901462397_359732_4996" refElementId="_19_0_4_c480314_1685901462397_359732_4996" humanType="Class" classType="Class" requireSort="node" icon="Mboe_WebPub2_Export_files/icon_class_433992395.jpg"><documentation humanName="Documentation" mode="s">&lt;html>
+  &lt;head>
+		&lt;style>
+			p {padding:0px; margin:0px;}
+		&lt;/style>
+	&lt;/head>
+  &lt;body>
+    &lt;p>
+Attribute linking to relevant resources that provide further information about the element
+
+    &lt;/p>
+
+    &lt;p>
+[Added manually from &lt;a href="https://www.omg.org/spec/MVF/20220501/AboutMVF.rdf">AboutMVF.rdf&lt;/a>]
+
+    &lt;/p>
+
+&lt;/body>
+&lt;/html></documentation><visibility humanName="Visibility" mode="e">public</visibility><qualifiedName humanName="Qualified Name" mode="e">Imported Ontologies::MVF ad-22-05-03 XMI::anyURI</qualifiedName><package refid="_19_0_4_c480314_1685901462397_434447_4990" refElementId="_19_0_4_c480314_1685901462397_434447_4990" humanType="Package" classType="Package" name="MVF ad-22-05-03 XMI" icon="Mboe_WebPub2_Export_files/icon_package_1104102002.jpg" humanName="Package"/><owningPackage refid="_19_0_4_c480314_1685901462397_434447_4990" refElementId="_19_0_4_c480314_1685901462397_434447_4990" humanType="Package" classType="Package" name="MVF ad-22-05-03 XMI" icon="Mboe_WebPub2_Export_files/icon_package_1104102002.jpg" humanName="Owning Package"/><owner refid="_19_0_4_c480314_1685901462397_434447_4990" refElementId="_19_0_4_c480314_1685901462397_434447_4990" humanType="Package" classType="Package" name="MVF ad-22-05-03 XMI" icon="Mboe_WebPub2_Export_files/icon_package_1104102002.jpg" humanName="Owner" mode="s,e"/><ownedElement humanName="Owned Element"><comment refid="_19_0_4_c480314_1690548384281_412338_11395" refElementId="_19_0_4_c480314_1690548384281_412338_11395" humanType="Comment" classType="Comment" name="Attribute linking to relevant resources that provi..." icon="Mboe_WebPub2_Export_files/icon_comment_206729060.jpg"/></ownedElement><ownedComment humanName="Owned Comment"><comment refid="_19_0_4_c480314_1690548384281_412338_11395" refElementId="_19_0_4_c480314_1690548384281_412338_11395" humanType="Comment" classType="Comment" name="Attribute linking to relevant resources that provi..." icon="Mboe_WebPub2_Export_files/icon_comment_206729060.jpg"/></ownedComment><namespace refid="_19_0_4_c480314_1685901462397_434447_4990" refElementId="_19_0_4_c480314_1685901462397_434447_4990" humanType="Package" classType="Package" name="MVF ad-22-05-03 XMI" icon="Mboe_WebPub2_Export_files/icon_package_1104102002.jpg" humanName="Namespace"/><name humanName="Name" mode="s,e">anyURI</name><isLeaf humanName="Is Leaf" mode="e">false</isLeaf><isFinalSpecialization humanName="Is Final Specialization" mode="e">false</isFinalSpecialization><isActive humanName="Is Active" mode="s,e">false</isActive><isAbstract humanName="Is Abstract" mode="s,e">false</isAbstract><effectiveIRI humanName="Effective IRI"></effectiveIRI><derivedExplanation humanName="Derived Explanation"></derivedExplanation><clientDependency humanName="Client Dependency"><dependency refid="_19_0_4_c480314_1690551839317_798777_11947" refElementId="_19_0_4_c480314_1690551839317_798777_11947" humanType="Dependency" classType="Dependency" name="Dependency[anyURI -> String]" isRelationship="true" icon="Mboe_WebPub2_Export_files/icon_dependency_929035017.jpg"/></clientDependency><TO_DO humanName="To Do" mode="s,e"></TO_DO><ActiveHyperlink humanName="Active Hyperlink" mode="e"></ActiveHyperlink><report_appliedStereotype_tags humanName="Applied Stereotype" requireSort="element" mode="s,e"/></class></magicdraw>

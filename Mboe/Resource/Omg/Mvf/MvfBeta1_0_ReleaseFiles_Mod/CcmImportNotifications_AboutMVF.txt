@@ -1,0 +1,182 @@
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecLCCLanguagesLanguageRepresentation'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsTextDatatype'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecMVFMultipleVocabularyFacility'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsDesignators'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsDatesAndTimes'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecLCCCountriesCountryRepresentation'
+[2023.06.07193500]
+ERROR [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1819] - Anonymous datatype 'DatatypeRestriction' is currently not supported
+[2023.06.07193500]
+ERROR [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1819] - Anonymous datatype 'DatatypeRestriction' is currently not supported
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsCollectionsisRelatedTo'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsCollections'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecMVFISO1087-TerminologyScience'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsCollectionshasArrangement'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitions'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsClassifiers'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecMVFISO1087-TerminologySciencestudies'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsContextualDesignators'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsCollectionscompliesWith'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecLCCLanguagesLanguageRepresentationhas'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsDatesAndTimeshasDatePeriod'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsDatesAndTimeshasDateTime'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsDatesAndTimeshasDate'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsDatesAndTimeshasDuration'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1563] - Assuming domain of 'owlThing' for property 'httpswww.omg.orgspecCommonsDatesAndTimeshasDateTimeStamp'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsIdentifiers'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsreferences' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httppurl.orgdcterms'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpswww.omg.orgspecCommonsAnnotationVocabulary'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermssource' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermscontributor' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200001rdf-schema#label' because no explicit import of ontology 'httpwww.w3.org200001rdf-schema' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpwww.w3.org200001rdf-schema#'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsabstract' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermslicense' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#definition' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpwww.w3.org200402skoscore#'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#example' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#note' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#scopeNote' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#altLabel' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200001rdf-schema#isDefinedBy' because no explicit import of ontology 'httpwww.w3.org200001rdf-schema' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#prefLabel' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200001rdf-schema#seeAlso' because no explicit import of ontology 'httpwww.w3.org200001rdf-schema' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatacopyright' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpwww.omg.orgtechprocessabSpecificationMetadata'
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatafileAbbreviation' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatafileAbstract' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#changeNote' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatafilename' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatacontentLanguage' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatarelatedSpecification' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#historyNote' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.w3.org200402skoscore#editorialNote' because no explicit import of ontology 'httpwww.w3.org200402skoscore' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsmodified' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermscreator' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermspublisher' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsrights' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsdescription' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermsissued' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httppurl.orgdctermstitle' because no explicit import of ontology 'httppurl.orgdcterms' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatadirectSource' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193500]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf1908] - Assuming domain of 'owlThing' for annotation property 'httpwww.omg.orgtechprocessabSpecificationMetadatadependsOn' because no explicit import of ontology 'httpwww.omg.orgtechprocessabSpecificationMetadata' was found.
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf799] - Ignoring equivalence between 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsAdmittedTerm' and 'ObjectHasValue(httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionshasAcceptabilityRating httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsadmitted)'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf799] - Ignoring equivalence between 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsPreferredTerm' and 'ObjectHasValue(httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionshasAcceptabilityRating httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionspreferred)'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf799] - Ignoring equivalence between 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsDeprecatedTerm' and 'ObjectHasValue(httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionshasAcceptabilityRating httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsdeprecated)'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf799] - Ignoring equivalence between 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsObsoleteTerm' and 'ObjectHasValue(httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionshasAcceptabilityRating httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsobsolete)'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2860] - Creating Anything 'Thing' for 'httpwww.omg.orgspecMVFAboutMVF'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf2108] - Class restrictions of type owlDataHasValue are currently not supported. The restriction 'DataHasValue(httpswww.omg.orgspecMVFMultipleVocabularyFacilityisAbbreviation true^^xsdboolean)' will not be applied.
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'term that is no longer in common use' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsobsolete'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'ISO 1087 Terminology work and terminology science - Vocabulary, Second edition, 2019-09, clause 3.4.22' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsobsolete'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'obsolete' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsobsolete'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'ISO 1087 Terminology work and terminology science - Vocabulary, Second edition, 2019-09, clause 3.4.19' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionspreferred'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'term rated as the primary term for a given concept' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionspreferred'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'preferred' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionspreferred'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'term rated as undesired' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsdeprecated'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'ISO 1087 Terminology work and terminology science - Vocabulary, Second edition, 2019-09, clause 3.4.21' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsdeprecated'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'deprecated' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsdeprecated'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'ISO 1087 Terminology work and terminology science - Vocabulary, Second edition, 2019-09, clause 3.4.20' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsadmitted'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'admitted' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsadmitted'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'term rated as a synonym for a preferred term' annotating an unknown entity 'httpswww.omg.orgspecMVFISO1087-VocabularyForTermsAndDefinitionsadmitted'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'explicit period of 24 hours' annotating an unknown entity 'httpswww.omg.orgspecCommonsDatesAndTimesDay'
+[2023.06.07193501]
+WARN [com.nomagic.conceptmodeler.transforms.Cameo Concept Modelerf556] - Found an annotation 'day' annotating an unknown entity 'httpswww.omg.orgspecCommonsDatesAndTimesDay'
+[2023.06.07193501]
+Import Summary New Concept Models  22 New Concepts  192 New Concept Disjointness Relations  7 New Datatypes  10 New Properties  300 New Concept Specializations  168 New Concept Equivalences  5 New Generalization Sets  2 New Property Specializations  84 New Annotations  1049 
+[2023.06.07193501]
+CCM import details of the changes to the model were written to a log file CUserspowleysAppDataLocal.cameo.systems.modeler19.0ccm-import-About the Multiple Vocabulary Facility (MVF) Specification.log
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context.
+[2023.06.07193506]
+WARN [com.nomagic.conceptmodeler.ui.Cameo Concept Modelerh.Cameo Concept Modelere52] - While a min 0 qualified cardinality of 0 with type Thing is meaningless, the construct will be retained as it may be used to indicate relevance of the property in the given context
